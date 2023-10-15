@@ -1,5 +1,22 @@
-<h1 align="center"> Sitio web Cronos </h1>
+<h1 align="center">Cronos</h1>
 ![banner](https://github.com/Emiliano-repo/WebCronos/assets/128517938/5f002fcc-a37e-4dce-b354-5da118a6092a)
+
+<div id="indicators-carousel" class="relative w-full" data-carousel="static">
+    <!-- Carousel wrapper -->
+    <div class="relative h-56 overflow-hidden rounded-lg md:h-96">
+         <!-- Item 1 -->
+        <div class="hidden duration-700 ease-in-out" data-carousel-item="active">
+            <img src="https://github.com/Emiliano-repo/WebCronos/assets/128517938/5f002fcc-a37e-4dce-b354-5da118a6092a" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+        </div>
+          </div>
+      
+
+
+
+
+
+
+
 ## :hammer:Funcionalidades del proyecto
 - `Funcionalidad 1`: Se constuye un sitio para la venta de relojes. 
 - `Funcionalidad 2`: Tambien se diseña una galeria para la vista de los mismos . 
