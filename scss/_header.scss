@@ -1,0 +1,15 @@
+span {
+    padding: 20px;
+  }
+
+
+header span {
+  display: none;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 0 auto;
+}
