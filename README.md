@@ -1,6 +1,4 @@
 <h1 align="center">Cronos</h1>
-![banner](https://github.com/Emiliano-repo/WebCronos/assets/128517938/5f002fcc-a37e-4dce-b354-5da118a6092a)
-
 <div id="indicators-carousel" class="relative w-full" data-carousel="static">
     <!-- Carousel wrapper -->
     <div class="relative h-56 overflow-hidden rounded-lg md:h-96">
