@@ -27,4 +27,7 @@
 - Git.
 - Frameworks CSS + Bootstrap.
 - @Media + Pseudoclases.
-- SASS. 
+- SASS.
+  \## Figma : 
+![Captura](https://github.com/Emiliano-repo/WebCronos/assets/128517938/f5d6ccf4-3548-488d-9ff5-50fe5b1f2978)
+
